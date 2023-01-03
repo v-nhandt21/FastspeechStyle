@@ -149,7 +149,7 @@ figures/
 
 # Figure
 figure/
-*.png
+# *.png
 *.eps
 checkpoints/
 file_lists/
