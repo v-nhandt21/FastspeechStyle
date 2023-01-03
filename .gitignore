@@ -145,7 +145,7 @@ figures/
 
 .idea/*
 *.xml
-*.wav
+# *.wav
 
 # Figure
 figure/
