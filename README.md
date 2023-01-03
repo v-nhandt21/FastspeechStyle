@@ -1,8 +1,5 @@
-## Cross-lingual Voice Conversion using Hierarchical Vector-Quantized Variational Autoencoder
-Author: Ho Tuan Vu \
-Affiliation: Japan Advanced Institute of Science and Technology \
-Email: tuanvu.ho@jaist.ac.jp \
-Demo page: https://tuanvu92.github.io/VCC2020/
+## FastSpeechStyle: Fast, Emotion Controllable and High-Quality Speech Synthesis
+Demo page: https://v-nhandt21.github.io/FastspeechStyle/
 
 
  
